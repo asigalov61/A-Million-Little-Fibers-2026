@@ -9,7 +9,7 @@
 
 * [Z AI](https://chat.z.ai/)
 * [HeartMuLa](https://github.com/HeartMuLa/heartlib)
-* [HeartMuLa Hugging Face Space]([https://github.com/HeartMuLa/heartlib](https://huggingface.co/spaces/projectlosangeles/HeartMuLa))
+* [HeartMuLa Hugging Face Space]([https://github.com/HeartMuLa/heartlib](https://huggingface.co/spaces/projectlosangeles/HeartMuLa)
 * [HeartMuLa Output Samples](https://soundcloud.com/aleksandr-sigalov-61/sets/heartmula-select)
 * [Microsoft Copilot](https://copilot.microsoft.com/)
 * [A Million Little Fibers](https://github.com/asigalov61/A-Million-Little-Fibers)
