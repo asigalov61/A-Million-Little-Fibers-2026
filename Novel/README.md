@@ -12,7 +12,7 @@
 
 **```GLM 5.2``` produced comparable quality content but suffered from overthinking which hindered its response speed.**
 
-**```GLM 5 Turbo``` continuations were shorter than those of ```GLM 5.2```
+**```GLM 5 Turbo``` continuations were shorter than those of ```GLM 5.2```**
 
 ***
 
