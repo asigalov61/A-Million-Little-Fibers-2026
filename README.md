@@ -20,5 +20,5 @@
 
 ***
 
-### Project Los Angeles 2026
+### Project Los Angeles
 ### Tegridy Code 2026
