@@ -16,7 +16,7 @@
 
 ## Attribution
 
-### South Park characters and materials are a courtesy of [South Park Studios](https://southpark.cc.com/)
+* South Park characters and materials are a courtesy of [South Park Studios](https://southpark.cc.com/)
 
 ***
 
