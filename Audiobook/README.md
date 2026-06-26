@@ -7,7 +7,12 @@
 
 ***
 
-### 
+## Audiobook versions
+
+* ```[Published]_A_Million_Little_Fibers_[narrated_by_Towelie].mp3``` was rendered from ```glm_5_2_continuation_1.txt```
+* ```[Pre_Print]_A_Million_Little_Fibers_[narrated_by_Towelie].mp3``` was rendered from ```glm_5_2_continuation_0.txt```
+
+### Both audiobook versions are also available for listening to on [SoundCloud](https://soundcloud.com/aleksandr-sigalov-61/sets/a-million-little-fibers)
 
 ***
 
