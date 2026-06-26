@@ -5,5 +5,19 @@
 
 ***
 
+## Links
+
+### [Z AI](https://chat.z.ai/)
+### [HeartMuLa](https://github.com/HeartMuLa/heartlib)
+### [Microsoft Copilot](https://copilot.microsoft.com/)
+
+***
+
+## Attribution
+
+### South Park characters and materials are a courtesy of [South Park Studios](https://southpark.cc.com/)
+
+***
+
 ### Project Los Angeles 2026
 ### Tegridy Code 2026
